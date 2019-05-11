@@ -36,3 +36,8 @@ In no particular order:
 - Freedom of setup choice (preferably using your own machine)
 - Autonomy
 - 
+
+## Shared Resources
+
+- [Human Made](https://handbook.hmn.md)
+-
